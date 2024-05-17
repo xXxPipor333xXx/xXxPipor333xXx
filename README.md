@@ -28,3 +28,5 @@ i also
 - java
 
 tl;dr i wanna becom funny programero :)
+
+<!--![](cinderela_cracuda.jpg)-->
