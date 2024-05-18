@@ -29,4 +29,4 @@ i also
 
 tl;dr i wanna becom funny programero :)
 
-<!--![](cinderela_cracuda.jpg)-->
+![](cinderela_cracuda.jpg)
