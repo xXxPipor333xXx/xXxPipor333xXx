@@ -26,6 +26,7 @@ i also
 - rust
 - assembly
 - java
+- sql
 
 tl;dr i wanna becom funny programero :)
 
